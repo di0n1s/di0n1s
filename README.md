@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @di0n1s
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning JavaScript(but now i am not currently anything)
+- 🌱 I’m currently learning Android dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
